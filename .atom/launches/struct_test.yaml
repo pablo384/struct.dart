@@ -1,0 +1,8 @@
+# Cli launch configuration for test/struct_test.dart.
+type: cli
+path: test/struct_test.dart
+
+cli:
+  args: 
+  checked: true
+  debug: true
